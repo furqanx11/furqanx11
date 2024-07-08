@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/furqanx11/static/css/main.cc9437d9.css",
-    "main.js": "/furqanx11/static/js/main.156af71c.js",
+    "main.css": "/furqanx11/static/css/main.5b917a8e.css",
+    "main.js": "/furqanx11/static/js/main.408b5020.js",
     "static/js/453.32bc8d24.chunk.js": "/furqanx11/static/js/453.32bc8d24.chunk.js",
     "static/media/game.PNG": "/furqanx11/static/media/game.dbe443acca4e508a405c.PNG",
     "static/media/Sigma.PNG": "/furqanx11/static/media/Sigma.d35b3a44ae81386edd50.PNG",
@@ -11,12 +11,12 @@
     "static/media/urdus.png": "/furqanx11/static/media/urdus.0e786248a5b135ebc2f4.png",
     "static/media/CoolveticaRg-Regular.woff2": "/furqanx11/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/furqanx11/index.html",
-    "main.cc9437d9.css.map": "/furqanx11/static/css/main.cc9437d9.css.map",
-    "main.156af71c.js.map": "/furqanx11/static/js/main.156af71c.js.map",
+    "main.5b917a8e.css.map": "/furqanx11/static/css/main.5b917a8e.css.map",
+    "main.408b5020.js.map": "/furqanx11/static/js/main.408b5020.js.map",
     "453.32bc8d24.chunk.js.map": "/furqanx11/static/js/453.32bc8d24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc9437d9.css",
-    "static/js/main.156af71c.js"
+    "static/css/main.5b917a8e.css",
+    "static/js/main.408b5020.js"
   ]
 }
