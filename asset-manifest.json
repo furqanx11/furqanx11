@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/furqanx11/static/css/main.399b8af4.css",
-    "main.js": "/furqanx11/static/js/main.0bf39a85.js",
+    "main.css": "/furqanx11/static/css/main.61bdcbe8.css",
+    "main.js": "/furqanx11/static/js/main.eb69a5fe.js",
     "static/js/453.32bc8d24.chunk.js": "/furqanx11/static/js/453.32bc8d24.chunk.js",
     "static/media/game.PNG": "/furqanx11/static/media/game.dbe443acca4e508a405c.PNG",
     "static/media/Sigma.PNG": "/furqanx11/static/media/Sigma.d35b3a44ae81386edd50.PNG",
     "static/media/helvetica-neu.ttf": "/furqanx11/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/furqanx11/static/media/logo_sub.19f3ab25ab15fd848b30.png",
     "static/media/LaBelleAurore.woff2": "/furqanx11/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/furqanx11/static/media/logo-s.bfc9f81846bda5218dab.png",
     "static/media/f-logo.png": "/furqanx11/static/media/f-logo.8aefee1e2393087a0b30.png",
     "static/media/urdus.png": "/furqanx11/static/media/urdus.0e786248a5b135ebc2f4.png",
     "static/media/CoolveticaRg-Regular.woff2": "/furqanx11/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/furqanx11/index.html",
-    "main.399b8af4.css.map": "/furqanx11/static/css/main.399b8af4.css.map",
-    "main.0bf39a85.js.map": "/furqanx11/static/js/main.0bf39a85.js.map",
+    "main.61bdcbe8.css.map": "/furqanx11/static/css/main.61bdcbe8.css.map",
+    "main.eb69a5fe.js.map": "/furqanx11/static/js/main.eb69a5fe.js.map",
     "453.32bc8d24.chunk.js.map": "/furqanx11/static/js/453.32bc8d24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.399b8af4.css",
-    "static/js/main.0bf39a85.js"
+    "static/css/main.61bdcbe8.css",
+    "static/js/main.eb69a5fe.js"
   ]
 }
